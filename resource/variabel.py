@@ -1,0 +1,19 @@
+txtUsername = 'user-name'
+txtPassword = 'password'
+btnLogin = 'login-button'
+WebSauceDemo = 'https://www.saucedemo.com/'
+BROWSER = 'chrome'
+btnMenu = "xpath=//button[@id='react-burger-menu-btn']"
+btnLogout = "//a[@id='logout_sidebar_link']"
+addToCartFleeceJacket = "//button[@id='add-to-cart-sauce-labs-fleece-jacket']"
+addToCartOnesie = "//button[@id='add-to-cart-sauce-labs-onesie']"
+imgOnesie = "//img[@alt='Sauce Labs Onesie']"
+btnBackProduct = "//button[@id='back-to-products']"
+btnCart = "//a[@class='shopping_cart_link']"
+btnCheckout = "//button[@id='checkout']"
+txtFirstname = "//input[@id='first-name']"
+txtLastname = "//input[@id='last-name']"
+txtZip = "//input[@id='postal-code']"
+btnContinue = "//input[@id='continue']"
+btnFinish = "//button[@id='finish']"
+btnBackHome = "//button[@id='back-to-products']"
